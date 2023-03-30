@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <Folder Include="Arquivos_Entrada\" />
-    <Folder Include="Arquivo_Redimencionado\" />
+    <Folder Include="Arquivos_Redimencionados\" />
     <Folder Include="Arquivos_Finalizados\" />
   </ItemGroup>
 
